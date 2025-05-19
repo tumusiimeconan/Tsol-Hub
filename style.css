@@ -414,7 +414,7 @@ a img.aligncenter {
 }
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 300px) {
   section.main-banner {
     display: none;
   }
