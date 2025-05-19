@@ -413,6 +413,12 @@ a img.aligncenter {
 
 
 @media only screen and (max-width: 414px) {
+	
+	.home {
+    display: collapse;
+  }
+	
+	
   .slider-new-2 {
     display: collapse;
   }
