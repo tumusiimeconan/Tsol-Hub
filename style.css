@@ -414,24 +414,24 @@ a img.aligncenter {
 
 @media only screen and (max-width: 414px) {
   .slider-new-2 {
-    visibility: collapse;
+    display: collapse;
   }
   
    .slider-screen {
-    visibility: collapse;
+    display: collapse;
   }
   
   
-   ..slider-content {
-    visibility: collapse;
+   .slider-content {
+    display: collapse;
   }
   
   .owl-carousel {
-    visibility: collapse;
+    display: collapse;
   }
   
   .slider-new-2 owl-theme {
-    visibility: collapse;
+    display: collapse;
   }
   
 }
