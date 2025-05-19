@@ -415,29 +415,29 @@ a img.aligncenter {
 @media only screen and (max-width: 414px) {
 	
 	.home {
-    display: collapse;
+    display: none;
   }
 	
 	
   .slider-new-2 {
-    display: collapse;
+    display: none;
   }
   
    .slider-screen {
-    display: collapse;
+    display: none;
   }
   
   
    .slider-content {
-    display: collapse;
+    display: none;
   }
   
   .owl-carousel {
-    display: collapse;
+    display: none;
   }
   
   .slider-new-2 owl-theme {
-    display: collapse;
+    display: none;
   }
   
 }
