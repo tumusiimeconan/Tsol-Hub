@@ -413,9 +413,27 @@ a img.aligncenter {
 
 
 @media only screen and (max-width: 414px) {
-  .slider-new-2 owl-carousel owl-theme {
+  .slider-new-2 {
     visibility: hidden;
   }
+  
+   .slider-screen {
+    visibility: hidden;
+  }
+  
+  
+   ..slider-content {
+    visibility: hidden;
+  }
+  
+  .owl-carousel {
+    visibility: hidden;
+  }
+  
+  .slider-new-2 owl-theme {
+    visibility: hidden;
+  }
+  
 }
 
 .in-box{
