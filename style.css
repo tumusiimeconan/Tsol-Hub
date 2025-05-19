@@ -413,6 +413,14 @@ a img.aligncenter {
 	object-fit: contain;
 }
 
+@media only screen and (max-width: 410px) {
+  .main-banner {
+    display: none;
+  }
+}
+
+
+
 
 
 .in-box{
