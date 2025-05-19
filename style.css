@@ -397,7 +397,7 @@ a img.aligncenter {
 .slider-screen {
     background-position: center center;
     background-size: cover;
-    height: auto:
+    height: 100vh;
     padding: 0;
     position: relative;
 	object-fit: contain;
@@ -410,10 +410,6 @@ a img.aligncenter {
     top: 50%;
     transform: translateY(-50%);
     z-index: 99;
-	object-fit: contain;
-}
-
-.slider-img-full {
 	object-fit: contain;
 }
 
