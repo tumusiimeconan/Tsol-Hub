@@ -411,6 +411,13 @@ a img.aligncenter {
     z-index: 99;
 }
 
+
+@media only screen and (max-width: 414px) {
+  .slider-new-2 owl-carousel owl-theme {
+    visibility: hidden;
+  }
+}
+
 .in-box{
 	background: #525a61;
 	display: inline-block;
