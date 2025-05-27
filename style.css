@@ -795,8 +795,8 @@ xclip
     width: 100%;
     height: 100%;
     position: absolute;
-    bottom: -20px;
-    top: -20px;
+    bottom: 0px;
+    top: 0px;
     z-index: 0;
 }
 .right-box-pro::after {
@@ -805,9 +805,9 @@ xclip
     width: 100%;
     height: 100%;
     position: absolute;
-    bottom: -20px;
+    bottom: 0px;
 	right: 0px;
-    top: 20px;
+    top: 0px;
     z-index: 0;
 }
 
